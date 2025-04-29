@@ -31,6 +31,10 @@ body {
     display: flex;
     flex-direction: column;
     gap: 15px;
+    width: 100%;
+    align-items: center;
+    padding: 0 20px;
+    box-sizing: border-box;
   }
   
   .btn {
@@ -42,6 +46,9 @@ body {
     text-decoration: none;
     font-weight: bold;
     transition: background-color 0.3s;
+    width: 100%;
+    max-width: 300%;
+    text-align: center;
   }
   
   .btn:hover {
