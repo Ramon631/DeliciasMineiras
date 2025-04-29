@@ -47,7 +47,7 @@ body {
     font-weight: bold;
     transition: background-color 0.3s;
     width: 100%;
-    max-width: 300%;
+    max-width: 300px;
     text-align: center;
   }
   
